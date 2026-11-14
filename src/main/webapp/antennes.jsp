@@ -41,7 +41,8 @@
   <div class="hero-contenu">
     <span class="badge-rentree">TechnoLAB-ISTA partout au Mali</span>
     <h1>Nos antennes <span>régionales</span></h1>
-    <p>À Bamako et dans les régions, TechnoLAB-ISTA est proche de toi.</p>
+    <p>À Bamako et dans les régions ;
+    TechnoLAB-ISTA est proche de toi.</p>
   </div>
 </section>
 
