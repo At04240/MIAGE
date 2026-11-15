@@ -1,0 +1,258 @@
+CSS de la page certifications
+
+
+/* PAGE CERTIFICATIONS */
+
+.cert-hero {
+  padding: 80px 36px;
+  color: white;
+  background:
+    radial-gradient(circle at 85% 15%,rgba(247,181,0,.3),transparent 32%),
+    linear-gradient(115deg,#041f0f,#0a6b2e,#0e8a3c);
+}
+
+.cert-hero-content {
+  max-width: 950px;
+  margin: auto;
+}
+
+.cert-badge {
+  display: inline-block;
+  background: #f7b500;
+  color: #111;
+  padding: 8px 17px;
+  border-radius: 30px;
+  font-weight: 800;
+  font-size: 13px;
+}
+
+.cert-hero h1 {
+  font-size: 46px;
+  line-height: 1.2;
+  margin: 22px 0;
+}
+
+.cert-hero h1 span {
+  color: #f7b500;
+}
+
+.cert-hero p {
+  max-width: 720px;
+  color: #eaffef;
+  font-size: 17px;
+  margin-bottom: 25px;
+}
+
+.cert-button {
+  display: inline-block;
+  background: #ff7a00;
+  color: white;
+  padding: 13px 24px;
+  border-radius: 30px;
+  font-weight: 800;
+  transition: .3s;
+}
+
+.cert-button:hover {
+  background: #c8102e;
+  transform: translateY(-3px);
+}
+
+.cert-intro {
+  text-align: center;
+  padding: 55px 20px 30px;
+}
+
+.cert-label {
+  color: #0a6b2e;
+  font-size: 13px;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+
+.cert-intro h2,
+.cert-info h2 {
+  color: #0a2a4a;
+  font-size: 30px;
+  margin: 12px 0;
+}
+
+.cert-intro p {
+  color: #666;
+  max-width: 700px;
+  margin: auto;
+}
+
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 22px;
+  padding: 25px 36px 65px;
+}
+
+.cert-card {
+  background: white;
+  padding: 25px;
+  border-radius: 17px;
+  box-shadow: 0 8px 25px rgba(0,0,0,.08);
+  border-bottom: 4px solid #0a6b2e;
+  transition: .3s;
+}
+
+.cert-card:nth-child(3n+2) {
+  border-bottom-color: #c8102e;
+}
+
+.cert-card:nth-child(3n) {
+  border-bottom-color: #f7b500;
+}
+
+.cert-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 30px rgba(0,0,0,.12);
+}
+
+.cert-logo {
+  height: 115px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.cert-logo img {
+  width: 155px;
+  height: 95px;
+  object-fit: contain;
+}
+
+.cert-type {
+  font-size: 12px;
+  color: #0a6b2e;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.cert-card h3 {
+  font-size: 24px;
+  color: #0a2a4a;
+  margin: 10px 0;
+}
+
+.cert-card p {
+  color: #666;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.cert-footer {
+  background: #eaf6ec;
+  color: #0a6b2e;
+  display: inline-block;
+  padding: 8px 13px;
+  margin-top: 18px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.cert-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+  padding: 65px 8%;
+  background: white;
+}
+
+.cert-info > div:first-child p {
+  color: #555;
+  line-height: 1.8;
+  margin: 15px 0 25px;
+}
+
+.cert-info-box {
+  background: #f6f8f6;
+  padding: 28px;
+  border-radius: 18px;
+}
+
+.cert-info-item {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  padding: 15px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.cert-info-item:last-child {
+  border-bottom: none;
+}
+
+.cert-info-item > span {
+  min-width: 45px;
+  height: 45px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: #0a6b2e;
+  color: white;
+  font-weight: 900;
+}
+
+.cert-info-item h3 {
+  color: #0a2a4a;
+  font-size: 16px;
+}
+
+.cert-info-item p {
+  color: #666;
+  font-size: 13px;
+}
+
+.cert-bottom {
+  background: #eaf6ec;
+  text-align: center;
+  padding: 55px 20px;
+}
+
+.cert-bottom h2 {
+  color: #0a2a4a;
+  font-size: 29px;
+}
+
+.cert-bottom p {
+  color: #555;
+  margin: 12px 0 22px;
+}
+
+@media(max-width:900px) {
+  .cert-grid {
+    grid-template-columns: repeat(2,1fr);
+  }
+}
+
+@media(max-width:650px) {
+  .cert-hero {
+    padding: 50px 20px;
+  }
+
+  .cert-hero h1 {
+    font-size: 30px;
+  }
+
+  .cert-grid {
+    grid-template-columns: 1fr;
+    padding: 20px;
+  }
+
+  .cert-info {
+    grid-template-columns: 1fr;
+    padding: 40px 20px;
+  }
+
+  .cert-intro h2,
+  .cert-info h2 {
+    font-size: 24px;
+  }
+}
