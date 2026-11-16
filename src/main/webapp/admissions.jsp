@@ -46,7 +46,7 @@
 </section>
 
 <footer>
-  <div><b>TechnoLAB - ISTA</b><br>Des parchemins sûrs pour une compétitivité internationale !</div>
+  <div><b>TechnoLAB - ISTA</b><br>Des parchemins sûrs pour une compétitivité internationale !<br>Fondé en 1998 — Bamako, Mali</div>
   <div><b>Contact</b><br>Hamdallaye ACI 2000, Bamako<br>(+223) 20 29 01 54<br>infos@technolab-ista.com</div>
   <div><b>Antennes</b><br>Kayes • Koulikoro • Sikasso • Ségou<br>Mopti • Koutiala • Bougouni</div>
 </footer>
