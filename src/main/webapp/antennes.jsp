@@ -27,7 +27,7 @@
   </div>
   <nav class="menu">
     <a href="index.jsp">Accueil</a>
-    <a href="institut.jsp">À propos de Technolab Ista </a>
+ 
     <a href="formations.jsp">Nos cycles et filières</a>
     <a href="antennes.jsp" class="active">Antennes</a>
     <a href="admissions.jsp">Admission</a>
