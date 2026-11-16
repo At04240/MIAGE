@@ -27,7 +27,7 @@
   </div>
   <nav class="menu">
     <a href="index.jsp">Accueil</a>
-    <a href="institut.jsp">À propos</a>
+ 
     <a href="formations.jsp">Nos cycles et filières</a>
     <a href="antennes.jsp" class="active">Antennes</a>
     <a href="admissions.jsp">Admission</a>
@@ -41,7 +41,8 @@
   <div class="hero-contenu">
     <span class="badge-rentree">TechnoLAB-ISTA partout au Mali</span>
     <h1>Nos antennes <span>régionales</span></h1>
-    <p>À Bamako et dans les régions, TechnoLAB-ISTA est proche de toi.</p>
+    <p>À Bamako et dans les régions ;
+    TechnoLAB-ISTA est proche de toi.</p>
   </div>
 </section>
 

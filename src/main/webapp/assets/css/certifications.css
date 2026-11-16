@@ -1,0 +1,6 @@
+.grid-partenaires{display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:20px; padding:20px}
+.card{background:#fff; border-radius:12px; padding:20px; box-shadow:0 4px 10px rgba(0,0,0,.1); text-align:center}
+.badge{background:#0d2a54; color:#fff; padding:5px 10px; border-radius:15px; font-size:12px}
+.grid-certs{display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:20px; padding:20px}
+.card-cert{background:#fff; border-radius:12px; padding:20px; box-shadow:0 4px 10px rgba(0,0,0,.1); text-align:center}
+.statut{margin-top:10px; color:green; font-weight:bold}
