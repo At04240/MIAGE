@@ -274,6 +274,43 @@
         </div>
 
     </div>
+    <div class = "cycle-section-title">CYCLE MASTER ET INGENIERE (BAC +5/M1 & M2)</div>
+    <div class="domaine-grid">
+    <div class="domaine-card">
+    <div class="domaine-header">Domaine Tertiaire</div>
+    <div class="domaine-body">
+    <ul>
+    <li>Finance /Banque (et/ou Assurance),Finance/Gestion</li>
+    <li>Gestion Entreprises et Organisations</li>
+    <li>Comptabilité et Gestion (CAMES): Master CCA/Audit et Contrôle de Gestion, Gestion comptable, financière et Fiscalités</li>
+    <li>Marketing / Communication (CAMES) :Marketing / Communication, Communication d'entreprises et des organisations</li>
+    <li>Marketing & Commerce International</li>
+    <li>Logistique et Management des Opérations</li>
+    <li>Gestion des Ressources Humaines (CAMES)</li>
+    <li>Management des Projets et des Organisations (Options : Management des Projets, Environnement et Développement durable, Gouvernance et Management et Régularisation de Marchés publics, Management des Industries Extractives)</li>
+    </ul>
+    </div>
+    </div>
+
+    <div class="domaine-card">
+    <div class="domaine-header">Domaine Technique & Ingénierie</div>
+    <div class="domaine-body">
+    <ul>
+    <li>Master Génie Logiciel et Technologies Web </li>
+    <li>Master en Ingénierie Informatique de Gestion, Option MIAGE</li>
+    <li>Master Management des SI, Projets et Infrastructures TIC</li>
+    <li>Ingénierie Mathématique et Systèmes décisionnels (Math-info)</li>
+    <li>Master Ingénierie Systèmes, Réseaux et Sécurité</li>
+    <li>Master Réseaux & Télécommunications</li>
+    <li>Master Génie électrique et Energies Rénouvelables</li>
+    <ul>
+    </div>
+     </div>
+      </div>
+       </div>
+        </div>
+
+
 
 
     <footer>
