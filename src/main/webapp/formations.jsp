@@ -133,12 +133,7 @@
     <div class="topbar">
         <span>TechnoLAB - ISTA • Admissions ouvertes • Rentrée 2027 • DUT - Licence - Master •&nbsp;</span>
     </div>
-<div style="text-align: center; margin: 20px 0;">
-<video width="640" height="360" controls>
-<source src="Captures/video.mp4" type="video/mp4">
-Votre navigateur ne supporte pas la lecture de vidéos.
-</video>
-</div>
+
 
 
     <header class="cartouche">
@@ -314,6 +309,12 @@ Votre navigateur ne supporte pas la lecture de vidéos.
      </div>
       </div>
        </div>
+        </div>
+        <div style="text-align: center; margin: 20px 0;">
+        <video width="640" height="360" controls>
+        <source src="Captures/video.mp4" type="video/mp4">
+        Votre navigateur ne supporte pas la lecture de vidéos.
+        </video>
         </div>
 
 
