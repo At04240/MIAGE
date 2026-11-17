@@ -310,12 +310,6 @@
       </div>
        </div>
         </div>
-        <div style="text-align: center; margin: 20px 0;">
-        <video width="640" height="360" controls>
-        <source src="Captures/video.mp4" type="video/mp4">
-        Votre navigateur ne supporte pas la lecture de vidéos.
-        </video>
-        </div>
 
 
 
